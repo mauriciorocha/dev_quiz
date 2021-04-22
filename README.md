@@ -1,6 +1,6 @@
 # dev_quiz
 
-A new Flutter project.
+Aplicação desenvolvida na Next Level Week #05 realizada pela RocketSeat.
 
 ## Getting Started
 
